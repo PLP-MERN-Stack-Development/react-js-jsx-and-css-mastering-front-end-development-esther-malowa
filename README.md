@@ -72,8 +72,16 @@ The project includes multiple reusable components, a responsive layout, and rout
 
 ✅ Fully responsive design with Tailwind
 
-### 🖼️ Screenshots
-Homepage	Components Page	API Data Page
+## 🖼️ Screenshots
+
+### 🏠 Homepage
+![Homepage Screenshot](./screenshots/Home.png)
+
+### 🧩 Components Page
+![Components Screenshot](./screenshots/Tasks.png)
+
+### 🌐 API Data Page
+![API Data Screenshot](./screenshots/posts.png)
 
 
 🚀 Deployment
