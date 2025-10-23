@@ -75,13 +75,14 @@ The project includes multiple reusable components, a responsive layout, and rout
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
-![Homepage Screenshot](./screenshots/Home.png)
+![Home Screenshot](./week3-react-app/screenshots/Home.PNG)
 
-### 🧩 Components Page
-![Components Screenshot](./screenshots/Tasks.png)
 
-### 🌐 API Data Page
-![API Data Screenshot](./screenshots/posts.png)
+### 🧩 Tasks
+![Tasks Screenshot](./week3-react-app/screenshots/Tasks.PNG)
+
+### 🌐 posts
+![Posts Screenshot](./week3-react-app/screenshots/posts.PNG)
 
 
 🚀 Deployment
