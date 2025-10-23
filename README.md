@@ -14,7 +14,7 @@ You will:
 ## Getting Started
 
 1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
+2. Clone your personal repository that GitHub Classroom created
 3. Install dependencies:
    ```
    npm install
@@ -56,7 +56,7 @@ src/
 ### 🧠 Project Description
 
 This React application was built as part of the Week 3 assignment to demonstrate proficiency in JSX, Tailwind CSS, React hooks, and component-based architecture.
-The project includes multiple reusable components, a responsive layout, and routing setup using React Router.
+The project features multiple reusable components, a responsive layout, and a routing setup utilizing React Router.
 
 ### 🧱 Features Implemented
 
@@ -88,7 +88,7 @@ The project includes multiple reusable components, a responsive layout, and rout
 🚀 Deployment
 
 The project is deployed on [GitHub Pages]
-🔗 Live Demo: https://your-deployed-link-here.vercel.app
+🔗 Live Demo: https://plp-mern-stack-development.github.io/react-js-jsx-and-css-mastering-front-end-development-esther-malowa/
 
 🧰 How to Run Locally
 # Clone this repository
