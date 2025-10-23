@@ -52,19 +52,51 @@ src/
 └── App.jsx          # Main application component
 ```
 
-## Submission
+## Student Submission — Esther Ooko
+### 🧠 Project Description
 
-Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
+This React application was built as part of the Week 3 assignment to demonstrate proficiency in JSX, Tailwind CSS, React hooks, and component-based architecture.
+The project includes multiple reusable components, a responsive layout, and routing setup using React Router.
 
-1. Complete all required components and features
-2. Implement proper state management with hooks
-3. Integrate with at least one external API
-4. Style your application with Tailwind CSS
-5. Deploy your application and add the URL to your README.md
+### 🧱 Features Implemented
 
-## Resources
+✅ Vite setup with Tailwind CSS
 
-- [React Documentation](https://react.dev/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
+✅ Reusable Button and Card components
+
+✅ State management using React hooks (useState, useEffect)
+
+✅ Routing with React Router
+
+✅ Simple API data fetching and display
+
+✅ Fully responsive design with Tailwind
+
+### 🖼️ Screenshots
+Homepage	Components Page	API Data Page
+
+
+🚀 Deployment
+
+The project is deployed on [GitHub Pages]
+🔗 Live Demo: https://your-deployed-link-here.vercel.app
+
+🧰 How to Run Locally
+# Clone this repository
+git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-esther-malowa
+
+# Navigate to project folder
+cd week3-react-app
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+🧾 Author
+
+Name: Esther Ooko
+Course: PLP MERN Stack Development
+Week: 3
+Topic: React JSX & Tailwind CSS
